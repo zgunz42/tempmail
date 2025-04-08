@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-tokio = { version = "1.28", features = ["full"] }
+tokio = { version = "1.43", features = ["full"] }
 chrono = "0.4"
 rand = "0.8"
 async-std = "1.12.0"
